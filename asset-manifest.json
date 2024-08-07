@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/fpp3/static/css/main.6990903b.css",
-    "main.js": "/fpp3/static/js/main.49dda242.js",
+    "main.css": "/fpp3/static/css/main.71fd2877.css",
+    "main.js": "/fpp3/static/js/main.351a250d.js",
     "static/js/453.456866f8.chunk.js": "/fpp3/static/js/453.456866f8.chunk.js",
     "static/media/13.png": "/fpp3/static/media/13.2bd45be36a57763da09d.png",
     "static/media/25.png": "/fpp3/static/media/25.4cb188190493e2541b30.png",
@@ -9,16 +9,16 @@
     "static/media/12.png": "/fpp3/static/media/12.35ca22b5dc8883fc895e.png",
     "static/media/23.png": "/fpp3/static/media/23.9053c363750151709d04.png",
     "static/media/zohaib-tahir.png": "/fpp3/static/media/zohaib-tahir.5e516d49c2936beb29fa.png",
-    "static/media/main-bg.jpeg": "/fpp3/static/media/main-bg.cf8ec81dfd915cdad879.jpeg",
     "static/media/CUP-Campaign.pdf": "/fpp3/static/media/CUP-Campaign.ce688cd10017e9ad05c1.pdf",
     "static/media/cup-logo-main.png": "/fpp3/static/media/cup-logo-main.d53282b61043e36274f5.png",
+    "static/media/cup-bg.jpg": "/fpp3/static/media/cup-bg.7ace9bfb1e47d9d44fa9.jpg",
     "index.html": "/fpp3/index.html",
-    "main.6990903b.css.map": "/fpp3/static/css/main.6990903b.css.map",
-    "main.49dda242.js.map": "/fpp3/static/js/main.49dda242.js.map",
+    "main.71fd2877.css.map": "/fpp3/static/css/main.71fd2877.css.map",
+    "main.351a250d.js.map": "/fpp3/static/js/main.351a250d.js.map",
     "453.456866f8.chunk.js.map": "/fpp3/static/js/453.456866f8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6990903b.css",
-    "static/js/main.49dda242.js"
+    "static/css/main.71fd2877.css",
+    "static/js/main.351a250d.js"
   ]
 }
